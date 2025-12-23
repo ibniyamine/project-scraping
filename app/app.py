@@ -16,7 +16,7 @@ HEADERS = {
 LOCAL_FILE_PATH = "/data/demographie_europe.csv"
 
 S3_BUCKET_NAME = "m2dsia-anoir-ibniyamine"   
-S3_OBJECT_NAME = "europe/demographie_europe.csv"
+S3_OBJECT_NAME = "demographie_europe.csv"
 
 # ==============================
 # SCRAPING
